@@ -22,11 +22,11 @@
         <a href="https://www.youtube.com/@elprogramadortartamudo" target="_blank"><img align="center"
          src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"
          alt="Youtube" height="30"/></a>
-      <a href="https://www.youtube.com/@elprogramadortartamudo" target="blank">
+     <!-- <a href="https://www.youtube.com/@elprogramadortartamudo" target="blank">
         <img align="center"
          src="https://img.shields.io/youtube/channel/subscribers/UCyzzGyR9DKHmw8C3C0f3mRw"
          alt="Canal de youtube" height="30"/></a>
-    
+         !-->
       <br>
     </p>
   </samp>
