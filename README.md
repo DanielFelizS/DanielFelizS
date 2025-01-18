@@ -10,17 +10,17 @@
       <a href="https://www.linkedin.com/in/daniel-feliz/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn" height="30"/></a>
-      <a href="https://tiktok.com/@danielfeliz.dev" target="blank"><img align="center"
-         src="https://img.shields.io/badge/tiktok-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"
-         alt="Tiktok" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/danielfeliz.dev/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="Daniel Feliz" height="30"/></a>
         <a href="https://www.youtube.com/@elprogramadortartamudo" target="_blank"><img align="center"
          src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"
          alt="Youtube" height="30"/></a>
+    </p>
+   <p align="center">
+      <a href="https://www.instagram.com/danielfeliz.dev/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="Daniel Feliz" height="30"/></a>
+       <a href="https://tiktok.com/@danielfeliz.dev" target="blank"><img align="center"
+         src="https://img.shields.io/badge/tiktok-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"
+         alt="Tiktok" height="30"/></a>
      <!-- <a href="https://www.youtube.com/@elprogramadortartamudo" target="blank">
         <img align="center"
          src="https://img.shields.io/youtube/channel/subscribers/UCyzzGyR9DKHmw8C3C0f3mRw"
