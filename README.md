@@ -19,9 +19,10 @@
       <a href="https://www.instagram.com/danielfeliz.dev/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="Daniel Feliz" height="30"/></a>
-      <a href="https://www.youtube.com/@elprogramadortartamudo" target="blank"><img align="center"
-         src="https://img.shields.io/youtube/channel/subscribers/UCyzzGyR9DKHmw8C3C0f3mRw&logo=youtube&logoColor=white"
-         alt="Daniel Feliz" height="30"/></a>
+      <a href="https://www.youtube.com/@elprogramadortartamudo" target="blank">
+        <img align="center"
+         src="https://img.shields.io/youtube/channel/subscribers/UCyzzGyR9DKHmw8C3C0f3mRw"
+         alt="Canal de youtube" height="30"/></a>
     
       <br>
     </p>
