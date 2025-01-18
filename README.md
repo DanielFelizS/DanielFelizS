@@ -2,7 +2,6 @@
 <h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Mi nombre es Daniel Féliz</h1>
 <h4 align="center">Soy un desarrollador Fullstack con React y .net core. También me dedico a crear contenido para mis redes sociales. No olvides seguirme en mis redes sociales<a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
------
 <details>
   <summary>📲 Mis redes sociales</summary>
 <div>
@@ -11,10 +10,10 @@
       <br/>
       <a href="https://www.linkedin.com/in/daniel-feliz/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Daniel Feliz" height="30"/></a>
-      <a href="mailto:felizsdaniel0@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Daniel Feliz" height="30"/></a>
+         alt="LinkedIn" height="30"/></a>
+      <a href="https://tiktok.com/@danielfeliz.dev" target="blank"><img align="center"
+         src="https://img.shields.io/badge/tiktok-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"
+         alt="Tiktok" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://www.instagram.com/danielfeliz.dev/" target="blank"><img align="center"
