@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi nombre es Daniel Féliz</h1>
-<h4 align="center">Soy un desarrollador Fullstack con React y .net core. También me dedico a crear contenido para mis redes sociales. No olvides seguirme en mis redes sociales<a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">Soy un desarrollador Fullstack con React y .net core. También me dedico a crear contenido para mis redes sociales.
 </div>
 
  # 📲 Mis redes sociales
